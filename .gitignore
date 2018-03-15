@@ -10,6 +10,8 @@
 # VC Generated Files
 
 *.VC.db
+*.VC.opendb
+*.sln
 
 
 # User Ignored Files
